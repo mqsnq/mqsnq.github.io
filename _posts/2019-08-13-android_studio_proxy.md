@@ -60,9 +60,9 @@ systemProp.https.proxyPort=808
 \# 需要验证时
 
 ```
-# systemProp.https.proxyUser=userid
+systemProp.https.proxyUser=userid
 
-# systemProp.https.proxyPassword=password
+systemProp.https.proxyPassword=password
 ```
 
  
@@ -70,7 +70,7 @@ systemProp.https.proxyPort=808
 \# 直接连接而不走代理设置
 
 ```
-# systemProp.https.nonProxyHosts=localhost
+systemProp.https.nonProxyHosts=localhost
 ```
 
 ### 对单个项目设置代理
