@@ -103,7 +103,7 @@ comments_provider: gitalk
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: mqsnq
-    repo: blog-comments
+    repo: mqsnq.github.io
     clientID: 678efe067a2d4626d73d
     clientSecret: ac192989adb396fc6b49483e7f3a6ebcee685fdf
 # 在使用其它评论组件时可点击显示 Disqus
