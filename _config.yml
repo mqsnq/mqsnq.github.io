@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://mqsnq.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: mqsnq的小窝
+subtitle: "不积跬步无以至千里"
+description: "mqsnq的个人博客"
+keywords: mqsnq, blog
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: mqsnq
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: mqsnq
+location: China
+email: remember33@outlook.com
 
 # ---------------- #
 #    Navigation    #
@@ -42,9 +42,9 @@ navs:
     href: /wiki/
     label: 维基
 
-  -
-    href: /links/
-    label: 链接
+# -
+#   href: /links/
+#   label: 链接
 
   -
     href: /about/
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: mqsnq/mqsnq.github.io
 
 # ---------------- #
 #      Comments    #
@@ -102,10 +102,10 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: mqsnq
+    repo: mqsnq.github.io
+    clientID: 678efe067a2d4626d73d
+    clientSecret: ac192989adb396fc6b49483e7f3a6ebcee685fdf
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 

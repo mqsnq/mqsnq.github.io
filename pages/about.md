@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: mqsnq的个人博客
+keywords: mqsnq, blog
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+mqsnq的小窝。
 
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+不积跬步无以至千里。
 
 ## 联系
 
