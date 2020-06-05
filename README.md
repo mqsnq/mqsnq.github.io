@@ -3,6 +3,8 @@ Fork：<https://mzlogin.github.io>
 
 My: <https://mqsnq.github.io>
 
+My_CDN: <https://mqsnq.netlify.app>
+
 ## 概览
 
 <!-- vim-markdown-toc GFM -->
@@ -17,7 +19,7 @@ My: <https://mqsnq.github.io>
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://mqsnq.github.io)**
+**[在线预览 &rarr;](https://mqsnq.netlify.app)**
 
 ## Fork 指南
 
